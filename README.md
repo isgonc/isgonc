@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá seja bem vindo👋✨
+𝑭𝒊𝒄𝒐 𝒇𝒆𝒍𝒊𝒛 𝒅𝒆 𝒗𝒐𝒄𝒆̂ 𝒆𝒔𝒕𝒂𝒓 𝒗𝒊𝒔𝒊𝒕𝒂𝒏𝒅𝒐 𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍🖤
 
-<!--
-**isgonc/isgonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é 𝑰𝒔𝒂𝒃𝒆𝒍𝒂 𝑮𝒐𝒏𝒄̧𝒂𝒍𝒗𝒆𝒔
 
-Here are some ideas to get you started:
+▪️ Estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▪️ Estou me desenvolvendo na linguagem Javascript
+
+▪️ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
+
+## Você pode entrar em contato comigo ⬇⬇
+email: isabelaa9871@gmail.com
